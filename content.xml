@@ -1,0 +1,1708 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package name="Сила трав" version="4" id="d7f3ece4-6985-4459-94ca-4bdb2c254ce8" date="19.07.2023" difficulty="5"
+    xmlns="http://vladimirkhil.com/ygpackage3.0.xsd">
+    <info>
+        <authors>
+            <author>a.shin</author>
+        </authors>
+    </info>
+    <rounds>
+        <round name="1-й раунд">
+            <themes>
+                <theme name="by LadynSAX (м)">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/era_ameno.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Era</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/modern_talking.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Modern Talking</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/hamali.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>HAMMALI &amp; NAVAI</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/ace_of_base.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ace of Base</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom>Название песни</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/jimmy.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Jimmy Jimmy</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/jo_dasen.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Joe Dassin</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/nikolaev.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Игорь Николаев</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Каверы (м)">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/gotye_somebody_that_i_used_to_know.mp3
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Gotye</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/rammstein.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Rammstein</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/steklovata.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Стекловата</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/bon_jovi.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Bon Jovi</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/nirvana.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Nirvana</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/imagine_dragons.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Imagine Dragons</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/alan_walker.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Alan Walker</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Фильм по кадру">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/ace_ventura.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Эйс Вентура</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/alica.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Алиса в стране чудес</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/alita.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Алита боевой ангел</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/eurotour.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Евротур</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/kin_dza_za.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кин-дза-дза</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/leon.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Леон</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/matrix.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Матрица</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Телепередачи (м)">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/pole_chudes2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Поле чудес</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/ugaday_melodiyu.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Угадай мелодию</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/chelovek_zakon.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Человек и закон</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/bolshaya_stirka.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Большая стирка</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/v_mire_jivotnyh2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>В мире животных</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/spokoynoy_nochi2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Спокойной ночи малыши</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/chtogdekogda2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>ЧГК</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Рояль (м)">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/312_ostanus.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Город 312</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/adele_akyfall.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Адель</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom>Откуда произведение</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/darkwing_duck.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>мульт. Черный плащ</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom>Откуда произведение</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/frozen_let_it_go.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>мульт. Холодное сердце</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/imagine_dragons_thunder.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Imagine Dragons</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom>Откуда произведение</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/interstellar.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Интерстеллар</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/kak_upoitelny_vechera.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer> Белый орел</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Реплики">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/brat2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Брат 2</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/chel_pauk.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Человек паук</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/django_osvobojdenniy.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Джанго освобожденный</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/kavkazskaya_plennica.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кавказская ленница</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/krim_chtivo.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Криминальное чтиво</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/madagaskar.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мадагаскар</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/mstiteli.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мстители</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Мультик по кадру">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/11_multiki_po_kadru/ejik_v_tumane.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ежик в тумане</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/11_multiki_po_kadru/kapitan_vrungel.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Приключения капитана Врунгеля</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/11_multiki_po_kadru/tayna_3_planety.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Тайна третьей планеты</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/11_multiki_po_kadru/malenkiy_muk.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Маленький Мук</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/11_multiki_po_kadru/smechariki.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Смешарики</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/11_multiki_po_kadru/ostrov_sokrovish.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Остров сокровищ</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/11_multiki_po_kadru/priklyucheniya_porosenka_funtika.jpg
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Приключения поросенка Фунтика</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Страна актёра">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/04_nazvat_stranu_aktera/1.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Хью Джекман - Австралия</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/04_nazvat_stranu_aktera/2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Идрис Эльба Великобритания</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/04_nazvat_stranu_aktera/3.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Лиам Нисон Ирландия</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/04_nazvat_stranu_aktera/4.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ален Делон Франция </answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/04_nazvat_stranu_aktera/5.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кристоф Вальс Австрия </answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/04_nazvat_stranu_aktera/6.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мэттью Макконахи США </answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/04_nazvat_stranu_aktera/7.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Колин Фаррелл Ирландия</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Режиссеры">
+                    <questions>
+                        <question price="100">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/pravdivaya_loj.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Джеймс Кэмерон</answer>
+                            </right>
+                        </question>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/besson.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Люк Бессон</answer>
+                            </right>
+                        </question>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/nolan.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кристофер Нолан</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/spilberg.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Стивен Спилберг</answer>
+                            </right>
+                        </question>
+                        <question price="500">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/fincher.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Дэвид Финчер</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/skorseze.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мартин Скорсезе</answer>
+                            </right>
+                        </question>
+                        <question price="700">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/tarantino.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Квентин Тарантино</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="2-й раунд">
+            <themes>
+                <theme name="by LadynSAX (м)">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom>Название песни</atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/lonely_video.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>Lonely Shepherd</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/mr_credo.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Mr.Credo</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/sting_desert_rose.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Sting</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/coy.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>В.Цой</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/ruki_vverh.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Руки Вверх</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/maxim.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Максим</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/talkov.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Игорь Тальков</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Каверы (м)">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/michael_jackson.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Michael Jackson</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/roxette.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Роксет</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/shura.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Шура</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/no_doubt.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>No doubt</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/elli_goldwin.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ellie Goulding</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/avril.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Аврил Лавин</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/sektor_gaza.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сектор Газа - Лирика </answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Фильм по кадру">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/mortal_kombat.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Смертельная битва</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/oblast_tmi.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Область тьмы</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/odin_plus_odin.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>1 + 1</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/pink_panter.jpeg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Розовая пантера</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/potter.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Гарри Поттер</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/prestij.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Престиж</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/proletaya_nad_gnezdom_kukushki.jpg
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Пролетая над гнездом кукушки</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Рояль (м)">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/maksim_znaesh_li_ty.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Максим</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom>Назовите произведение</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/nino_rota_romeo.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ромео и Джульетта</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/onerepublic_apologize.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>One republic</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom>Откуда произведение</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/papashi.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>к/ф. Папаши</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/police_every_breath_you_take.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Police / Стинг</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom>Назовите исполнителя</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/you_are_beatiful.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Джеймс Блант</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom>Откуда произведение</atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/10_piano_kakoe_proizvedenie/zolushka.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>к/ф. Золушка</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Мультики и м/сериалы (м)">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/aladdin.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Аладдин</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/brem_muzikanti.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бременские музыканты</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/chip_deyal.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Чип и Дейл</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/graviti_fols.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Гравити Фолз</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/kak_lvenok_i_cherepaha_peli_pesnyu.mp3
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Как львёнок и черепаха пели песню</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/krasavica_chudovishe.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Красавица и чудовище</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/kroshka_enot.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Крошка енот</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Реплики">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/nachalo.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Начало</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/vlastelin_kolec.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Властелин колец</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/neuderjimie.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Неудержимые</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/oblivion.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Обливион</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/svolochi.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сволочи</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/titanik.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Титаник</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/13_repliki/nastoyashiy_detektiv.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Настоящий детектив</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Ералаш (м)">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom>Из какого фильма песня </atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/09_eralash_m/31_iyula.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>31 июля</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom>Кто исполняет песню </atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/09_eralash_m/bonfire.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Bonfire</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom>Кто исполняет песню </atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/09_eralash_m/gregorian.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Грегориан</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom>Из какого фильма песня </atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/09_eralash_m/gryazniy_tanci.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Грязные танцы</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom>Из какого фильма песня </atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/09_eralash_m/karnaval.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Карнавал</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom>Из какого фильма песня </atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/09_eralash_m/snejnaya_koroleva.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Снежная королева</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom>Из какого фильма песня </atom>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/09_eralash_m/terminator.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Терминатор. Темные судьбы</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Кто спрятан">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/adrian_nikolas_broudi_1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/adrian_nikolas_broudi_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Эдриен Броуди</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/harison_ford_1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/harison_ford_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Харрисон Форд</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/john_travolta_1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/john_travolta_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Джон Траволта</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/samuel_l_jackson_1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/samuel_l_jackson_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сэмюэл Л. Джексон</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/tailor_lotner_1.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/tailor_lotner_2.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Тэйлор Лотнер</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/jan_more.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Жан Маре</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/03_kto_spryatan/salvador_dali.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сальвадор Дали</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Режиссеры">
+                    <questions>
+                        <question price="200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/bondarchuk.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бондарчук</answer>
+                            </right>
+                        </question>
+                        <question price="400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/bekmambetov.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Тимур Бекмамбетов</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/bay.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Майкл Бей</answer>
+                            </right>
+                        </question>
+                        <question price="800">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/zemekis.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Роберт Земекис</answer>
+                            </right>
+                        </question>
+                        <question price="1000">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/skott.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ридли Скотт</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/peter_jakson.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Питер Джексон</answer>
+                            </right>
+                        </question>
+                        <question price="1400">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/06_rejiseri/richi.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Гай Ричи</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+        <round name="3-й раунд">
+            <themes>
+                <theme name="by LadynSAX (м)">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/tina_turner.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Tina Turner</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/kirkorov.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Филипп Киркоров</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/serov.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Александр Серов</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/lady_in_red.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Chris de Burgh</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/boyarskiy.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Михаил Боярский</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/yesterday.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Ленон</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/01_ladynsax_m/dido_stan.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Dido</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Каверы (м)">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/aria.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Golden Eagle</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/dancing_queen.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>ABBA</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/iglesias.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Энрике Иглесиас</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/rasmus.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Расмус</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/pugacheva.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Пугачева</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/limp_bizkit.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Limpbizkit</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/05_covers_m/one_way_ticket.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Eruption - One way ticket</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Фильм по кадру">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/shoushenka.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Побег из Шаушенка</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/striji_galaktiki.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Стражи галактики</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/tretiy_lishniy.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Третий лишний</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/uncharted.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Анчартед</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/vremya.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Время</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/warcraft.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Варкрафт</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/08_film_po_kadru/zolotoy_kompas.jpg</atom>
+                            </scenario>
+                            <right>
+                                <answer>Золотой компас</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Телепередачи (м)">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/golos.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Голос</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/zov_djungley.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Зов джунгей</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/sam_sebe_rejiser.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Сам себе режиссер </answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/kalambur.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Каламбур</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/milliner.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кто хочет стать миллионером</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/zveno.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Слабое звено</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/07_tv/fort_boyard2.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Форд Боярд</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Мультики и м/сериалы (м)">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/letushiy_korabl.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Летучий корабль</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/michki_gammi.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мишки Гамми</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/mulan.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Мулан</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/po_doroge_k_oblakam.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>По дороге к облакам</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/sledstvie_vedut_1.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Следствие ведут колобки</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/spiderman.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Человек паук</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/12_multiki_m/v_belom_more_siney_pene.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>В синем море, в белой пене</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Выдающиеся деятели">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom>микробиолог и химик</atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/16_znamenitie_lyudi/paster.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Луи Пастер</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom>физик, математик, механик и астроном</atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/16_znamenitie_lyudi/nyuton.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Исаак Ньютон физик, математик, механик и астроном</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom>мореплаватель</atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/16_znamenitie_lyudi/kolumb.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Христофор Колумб мореплаватель</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom>натуралист и путешественник</atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/16_znamenitie_lyudi/darvin.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Чарльз Дарвин натуралист и путешественник</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom>скульптор, живописец, архитектор, поэт, мыслитель. Один из величайших мастеров
+                                    эпохи Ренессанса</atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/16_znamenitie_lyudi/micelyanjelo.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Микеланджело скульптор, живописец, архитектор, поэт, мыслитель. Один из
+                                    величайших мастеров эпохи Ренессанса</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom>американский художник-мультипликатор, кинорежиссёр, актёр, сценарист и продюсер
+                                </atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/16_znamenitie_lyudi/disney.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Уо́лтер Дисней американский художник-мультипликатор, кинорежиссёр, актёр,
+                                    сценарист и продюсер</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom>французский модельер одежды</atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/16_znamenitie_lyudi/diyor.png</atom>
+                            </scenario>
+                            <right>
+                                <answer>Кристиан Диор французский модельер одежды</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Классика (м)">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/15_classik_music/chopen.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Шопен</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/15_classik_music/bah.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бах</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/15_classik_music/shubert.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Шуберт</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/15_classik_music/chaykovsky.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Чайковский</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/15_classik_music/vivaldi.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Вивальди</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/15_classik_music/beethowen.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Бетховен</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/15_classik_music/mocart.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Моцарт</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="OST (м)">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/14_soundtrack/professional.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Профессионал</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/14_soundtrack/druzya.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Друзья</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/14_soundtrack/santa_barbara.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Санта Барбара</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/14_soundtrack/horoshiy_plohoy.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Хороший, плохой, злой</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/14_soundtrack/igra_prestolov.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Игра престолов</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/14_soundtrack/indiana_jons.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Индиана Джонс</answer>
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="voice">http://axelshin.github.io/game_fl_01/dist/14_soundtrack/krestniy_otec.mp3</atom>
+                            </scenario>
+                            <right>
+                                <answer>Крестный отец</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+                <theme name="Мемы и треш из интернета">
+                    <questions>
+                        <question price="300">
+                            <scenario>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/kirin_j_callinan_big_enough_1.mp4
+                                </atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/kirin_j_callinan_big_enough_2.mp4
+                                </atom>
+                            </scenario>
+                            <right>
+                                <answer>Ковбой орёт в горах</answer>
+                            </right>
+                        </question>
+                        <question price="600">
+                            <scenario>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/freestyle_1.mp4</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/freestyle_2.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>Фристайлллллло</answer>
+                            </right>
+                        </question>
+                        <question price="900">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/02_meme/vitalya.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/vitalya.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>Меня зовут Виталя</answer>
+                            </right>
+                        </question>
+                        <question price="1200">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/02_meme/gospod.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/gospod.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>Господь Господь</answer>
+                            </right>
+                        </question>
+                        <question price="1500">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/02_meme/huynya.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/huynya.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>Huynya</answer>
+                            </right>
+                        </question>
+                        <question price="1800">
+                            <scenario>
+                                <atom>Какая песня играет на фоне</atom>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/02_meme/haddaway.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/haddaway.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer />
+                            </right>
+                        </question>
+                        <question price="2100">
+                            <scenario>
+                                <atom type="image">http://axelshin.github.io/game_fl_01/dist/02_meme/volna.jpg</atom>
+                                <atom type="marker"></atom>
+                                <atom type="video">http://axelshin.github.io/game_fl_01/dist/02_meme/ya_volna.mp4</atom>
+                            </scenario>
+                            <right>
+                                <answer>Я волна</answer>
+                            </right>
+                        </question>
+                    </questions>
+                </theme>
+            </themes>
+        </round>
+    </rounds>
+</package>
